@@ -25,9 +25,9 @@
         text-align: center;
 
         @mixin atSmall {
-            font-size: 1.875rem;
-            margin-top: 1em;
             text-align: left;
+            margin-top: 1em;
+            font-size: 1.875rem; 
         }
     }
 } 
